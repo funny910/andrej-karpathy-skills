@@ -169,3 +169,14 @@ The goal is reducing costly mistakes on non-trivial work, not slowing down simpl
 ## License
 
 MIT
+
+
+## This fork: Codex maintenance
+
+This fork keeps `main` aligned with [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills). Personal documentation and Codex workflow notes live on the `codex-custom` branch.
+
+- [Chinese fork maintenance workflow](docs/zh-CN/FORK_WORKFLOW.md)
+- [Chinese Codex usage guide](docs/zh-CN/CODEX_USAGE.md)
+- [Project rule boundary](examples/README.md)
+
+Keep project-specific rules in each project's own configuration instead of changing the upstream guideline files.
